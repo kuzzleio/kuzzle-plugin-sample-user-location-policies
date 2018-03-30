@@ -1,0 +1,26 @@
+{
+  "name": "kuzzle-plugin-sample-user-location-policies",
+  "author": "The Kuzzle Team <support@kuzzle.io>",
+  "version": "1.0.0",
+  "description": "Kuzzle sample plugin to manage custom policies based on user location",
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuzzleio/kuzzle-plugin-sample-user-location-policies.git"
+  },
+  "keywords": [
+    "kuzzle",
+    "plugin",
+    "policies"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kuzzleio/kuzzle-plugin-sample-user-location-policies/issues"
+  },
+  "homepage": "https://github.com/kuzzleio/kuzzle-plugin-sample-user-location-policies#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
